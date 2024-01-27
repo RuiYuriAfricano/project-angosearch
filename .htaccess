@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^admin$ index.php [NC,L]
+RewriteRule ^relatorios(.*)$ php/angosearch/AdminLTE-master/classes/Relatorios.php [NC,L]
+

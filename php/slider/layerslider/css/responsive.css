@@ -1,0 +1,1017 @@
+/*=================================================
+		Media Query For This Templete
+===================================================*/
+
+@media (min-width: 900px) and (max-width: 1024px) {
+	
+	/*===== Index Page ===*/
+	.container{
+		min-width: 100%!important;
+		max-width:100%!important;
+		padding-right: 15px;
+		padding-left: 15px;
+		margin-right: auto;
+		margin-left: auto;
+		}
+	.logo{
+		text-align:center;
+		}
+	.responsive_float_none{
+		float:none!important;
+		padding-left: 20%;
+		}
+	.news_latter_list .news_latter_ul li{
+		padding-left: 13%;
+		}
+	.botton_margin{
+		margin-top: 25px;
+		}
+	.news_singup_small{
+		text-align:left;
+		}
+	.learn_button{
+		margin-left: 32.9%;
+		margin-right: 32%;
+		}
+	.hover_div{
+		margin-bottom:30px;
+		}
+	.bottom_margin{
+		margin-bottom:0px;
+		}
+	.know_more{
+		margin-top:0px;
+		}
+	.know_more .carousel-inner .item img{
+		margin:0 auto;
+		}
+	.know_more_media{
+		margin-left:21%;
+		margin-right:21%;
+		}
+	.round_bottom{
+		bottom: -15%;
+		}
+	.blog_margin_top{
+		margin-top:0px;
+		}
+	.blog_margin{
+		margin-top:30px;
+		}
+	.responsive_bottom_margin{
+		margin-bottom:45px;
+		}
+	.video_frame_box{
+		text-align: center;
+		}
+	#products_example{
+		width:100%!important;
+		}
+	#products .slides_container{
+		width:100%!important;
+		}
+	.slides_container a{
+		width:865px!important;
+		}
+	#products .pagination{
+		width:95%!important;
+		}
+	#products .pagination li{
+		margin-left:15px!important;
+		margin-right:15px!important;
+		}
+	#products .next{
+		left:97.5%!important
+		}
+	.footer_about_image{
+		margin-bottom:15px;
+		}
+	.footer_middle{
+		margin-top:0px;
+		}
+	/*===== End Index Page ===*/
+	
+	/*===== About Us Page ===*/
+	.team_social_icon_box{
+		margin-left:33%;
+		}
+	.person_comment{
+		margin-bottom:20px;
+		}
+	.team_margin{
+		margin-bottom:40px;
+		}
+	/*===== End About Us Page ===*/
+	
+	/*===== Service Page ===*/
+	.skill_title:last-child{
+		margin-bottom:50px;
+		}
+	/*===== End Service Page ===*/
+	
+	/*=== Portfolio Section ===*/
+	.portfolio_item_margin{
+		margin-left:15%;
+		margin-bottom: 50px;
+		}
+		/*-- Portfolio List --*/
+	.portfolio_content_title{
+		margin-top:30px;
+		}
+	.portfolio_pagination_padding{
+		padding-left:15px;
+		}
+		/*-- End portfolio List --*/
+		
+		/*-- Portfolio item --*/
+	.port_item_top{
+		margin-top:40px;
+		}
+	.por_item_service{
+		margin-top:50px;
+		}
+	.jcarousel-control-prev{
+		left:2%;
+		}
+	.jcarousel-control-next{
+		right:2%;
+		}
+		/*-- End Portfolio item --*/
+		
+	/*=== End Portfolio Section ===*/
+	
+	/*===== BLog Section ===*/
+	.blog_margin_body_top{
+		margin-top:40px;
+		}
+	.blog_post_title{
+		margin-top:20px;
+		}
+	.blog_side_padding{
+		padding-left:15px;
+		}
+		/*-- Blog Details --*/
+	.blog_slider .item img{
+		margin:0 auto;
+		}
+	/*===== End Blog Section ===*/
+	
+	/*===== Contact Page ===*/
+	.comtact_space_margin_top{
+		margin-top:50px;
+		}
+	.input_text{
+		margin-bottom:20px;
+		}
+	/*===== End Contact Page ===*/
+}
+@media (min-width: 768px) and (max-width: 900px) {
+	
+	/*===== Index Page ===*/
+	.container{
+		min-width: 100%!important;
+		max-width:100%!important;
+		padding-right: 15px;
+		padding-left: 15px;
+		margin-right: auto;
+		margin-left: auto;
+		}
+	.logo{
+		text-align:center;
+		}
+	.ls-s-1 img{
+		display:none;
+		}
+	.responsive_float_none{
+		float:none!important;
+		padding-left: 15%;
+		}
+	.news_latter_list .news_latter_ul li{
+		padding-left: 10%;
+		}
+	.botton_margin{
+		margin-top: 25px;
+		}
+	.news_singup_small{
+		text-align:left;
+		}
+	.learn_button{
+		margin-left: 29%;
+		margin-right: 29%;
+		}
+	.hover_div{
+		margin-bottom:30px;
+		}
+	.bottom_margin{
+		margin-bottom:0px;
+		}
+	.know_more{
+		margin-top:0px;
+		}
+	.know_more .carousel-inner .item img{
+		margin:0 auto;
+		}
+	.know_more_media{
+		margin-left:21%;
+		margin-right:21%;
+		}
+	.round_bottom{
+		bottom: -15%;
+		}
+	.know_more_button_home .know_more_button{
+		margin-right: 10px;
+		}
+	.blog_margin_top{
+		margin-top:0px;
+		}
+	.blog_margin{
+		margin-top:30px;
+		}
+	.responsive_bottom_margin{
+		margin-bottom:45px;
+		}
+	.video_frame_box{
+		text-align: center;
+		}
+	#products_example{
+		width:100%!important;
+		}
+	#products .slides_container{
+		width:100%!important;
+		}
+	.slides_container a{
+		width:722px!important
+		}
+	#products .pagination{
+		width:93%!important;
+		}
+	#products .pagination li{
+		margin-left:15px!important;
+		margin-right:15px!important;
+		}
+	#products .next{
+		left:97.5%!important
+		}
+	.footer_about_image{
+		margin-bottom:15px;
+		}
+	.footer_middle{
+		margin-top:0px;
+		}
+	/*===== End Index Page ===*/
+	
+	/*===== About Us Page ===*/
+	.team_social_icon_box{
+		margin-left:29.5%;
+		}
+	.person_comment{
+		margin-bottom:20px;
+		}
+	.team_margin{
+		margin-bottom:40px;
+		}
+	/*===== End About Us Page ===*/
+	
+	/*===== Service Page ===*/
+	.skill_title:last-child{
+		margin-bottom:50px;
+		}
+	/*===== End Service Page ===*/
+	
+	/*=== Portfolio Section ===*/
+	.portfolio_item_margin{
+		margin-left:8%;
+		margin-bottom: 50px;
+		}
+		/*-- Portfolio List --*/
+	.portfolio_content_title{
+		margin-top:30px;
+		}
+	.portfolio_pagination_padding{
+		padding-left:15px;
+		}
+		/*-- End portfolio List --*/
+		
+		/*-- Portfolio item --*/
+	.port_item_top{
+		margin-top:40px;
+		}
+	.por_item_service{
+		margin-top:50px;
+		}
+	.jcarousel-control-prev{
+		left:2%;
+		}
+	.jcarousel-control-next{
+		right:2%;
+		}
+		/*-- End Portfolio item --*/
+		
+	/*=== End Portfolio Section ===*/
+	
+	/*===== BLog Section ===*/
+	.blog_margin_body_top{
+		margin-top:40px;
+		}
+	.blog_post_title{
+		margin-top:20px;
+		}
+	.blog_side_padding{
+		padding-left:15px;
+		}
+		/*-- Blog Details --*/
+	.blog_slider .item img{
+		margin:0 auto;
+		}
+	/*===== End Blog Section ===*/
+	
+	/*===== Contact Page ===*/
+	.comtact_space_margin_top{
+		margin-top:50px;
+		}
+	.input_text{
+		margin-bottom:20px;
+		}
+	/*===== End Contact Page ===*/
+	
+}
+@media (min-width: 640px) and (max-width: 767px) {
+	
+	/*===== Index Page ===*/
+	.container{
+		min-width: 100%!important;
+		max-width:100%!important;
+		padding-right: 15px;
+		padding-left: 15px;
+		margin-right: auto;
+		margin-left: auto;
+		}
+	#menu{
+		display:none;
+		}
+	.slicknav_menu{
+		display:block!important;
+		position:absolute;
+		z-index:100;
+		right: 0;
+		margin-top: 13px;
+		margin-right: 5px;
+		}
+	.logo{
+		text-align:center;
+		}
+		/*-- Slider --*/
+	.ls-s-1 img{
+		display:none;
+		}
+	.ls-layer .slide_tittle{
+		left:10%!important;
+		margin-bottom:20px!important;
+		}
+	.ls-layer .slide_content{
+		left:10%!important;
+		margin-top: 5px!important;
+		margin-bottom:20px!important;
+		}
+	.ls-layer .slide_button {
+		top:70%!important;
+		}
+		/*-- End Slider --*/
+	.news_latter_list .news_latter_ul li{
+		padding-left: 7%;
+		}
+	.botton_margin{
+		margin-top: 25px;
+		}
+	.news_singup_small{
+		text-align:left;
+		}
+	.learn_button{
+		margin-left: 25%;
+		margin-right: 24%;
+		}
+	.hover_div{
+		margin-bottom:30px;
+		}
+	.bottom_margin{
+		margin-bottom:0px;
+		}
+	.know_more{
+		margin-top:0px;
+		}
+	.know_more .carousel-inner .item img{
+		margin:0 auto;
+		}
+	.know_more_media{
+		margin-left:10%;
+		margin-right:15%;
+		}
+	.round_bottom{
+		bottom: -10%;
+		}
+	.know_more_button_home .know_more_button{
+		margin-bottom: 10px;
+		}
+	.blog_margin_top{
+		margin-top:0px;
+		}
+	.blog_margin{
+		margin-top:30px;
+		}
+	.responsive_bottom_margin{
+		margin-bottom:45px;
+		}
+	.video_frame_box{
+		text-align: center;
+		}
+	#products_example{
+		width:100%!important;
+		}
+	#products .slides_container{
+		width:100%!important;
+		}
+	.slides_container a{
+		width:595px!important;
+		}
+	#products .pagination{
+		width:92%!important;
+		margin-left: 30px!important;
+		}
+	#products .pagination li{
+		margin-left:15px!important;
+		margin-right:15px!important;
+		}
+	#products .next{
+		left:97.5%!important
+		}
+	.footer_about_image{
+		margin-bottom:15px;
+		}
+	.footer_middle{
+		margin-top:0px;
+		}
+	/*===== End Index Page ===*/
+	
+	/*===== About Us Page ===*/
+	.team_social_icon_box{
+		margin-left:25%;
+		}
+	.person_comment{
+		margin-bottom:20px;
+		}
+	.team_margin{
+		margin-bottom:40px;
+		}
+	/*===== End About Us Page ===*/
+	
+	/*===== Service Page ===*/
+	.skill_title:last-child{
+		margin-bottom:50px;
+		}
+	/*===== End Service Page ===*/
+	
+	/*=== Portfolio Section ===*/
+	.portfolio_item_margin{
+		margin-left:5%;
+		margin-bottom: 50px;
+		}
+	.isotop_ul li{
+		margin-right:10px;
+		}
+	.isotop_ul li a{
+		padding:5px;
+		}
+		/*-- Portfolio List --*/
+	.portfolio_content_title{
+		margin-top:30px;
+		}
+	.portfolio_pagination_padding{
+		padding-left:15px;
+		}
+		/*-- End portfolio List --*/
+		
+		/*-- Portfolio item --*/
+	.port_item_top{
+		margin-top:40px;
+		}
+	.por_item_service{
+		margin-top:50px;
+		}
+	.jcarousel-control-prev{
+		left:2%;
+		}
+	.jcarousel-control-next{
+		right:2%;
+		}
+		/*-- End Portfolio item --*/
+	
+	/*=== End Portfolio Section ===*/
+	
+	/*===== BLog Section ===*/
+	.blog_margin_body_top{
+		margin-top:40px;
+		}
+	.blog_post_title{
+		margin-top:20px;
+		}
+	.blog_side_padding{
+		padding-left:15px;
+		}
+		/*-- Blog Details --*/
+	.blog_slider .item img{
+		margin:0 auto;
+		}
+	/*===== End Blog Section ===*/
+	
+	/*===== Contact Page ===*/
+	.comtact_space_margin_top{
+		margin-top:50px;
+		}
+	.input_text{
+		margin-bottom:20px;
+		}
+	/*===== End Contact Page ===*/
+}
+@media (min-width: 480px) and (max-width: 639px){
+	
+	/*===== Index Page ===*/
+	.container{
+		min-width: 100%!important;
+		max-width:100%!important;
+		padding-right: 15px;
+		padding-left: 15px;
+		margin-right: auto;
+		margin-left: auto;
+		}
+	#menu{
+		display:none;
+		}
+	.slicknav_menu{
+		display:block!important;
+		position:absolute;
+		z-index:100;
+		right: 0;
+		margin-top: 13px;
+		margin-right: 5px;
+		}
+	.logo{
+		text-align:left;
+		}
+		/*-- Slider --*/
+	.ls-s-1 img{
+		display:none;
+		}
+	.ls-s-1.slide_tittle{
+		left:20%!important;
+		}
+	.ls-s-1.slide_content{
+		left:20%!important;
+		margin-top:20px!important;
+		}
+	.ls-layer .slide_button {
+		top:70%!important;
+		left:20%!important;
+		}
+		/*-- End Slider --*/
+	.news_latter{
+		padding-top:30px;
+		}
+	.news_latter_list .news_latter_ul li{
+		padding-left: 0%;
+		float:none;
+		margin-right:9px;
+		}
+	.news_latter_list .news_latter_ul li:nth-child(5n+3){
+		float:left;
+		}
+	.news_latter_list .news_latter_ul li:nth-child(5n+4){
+		float:left;
+		}
+	.news_latter_list .news_latter_ul li:nth-child(5n+5){
+		float:left;
+		}
+	.news_input{
+		margin-top:10px;
+		margin-bottom:10px;
+		}
+	.botton_margin{
+		margin-top:20px;
+		}
+	.news_singup_small{
+		text-align:left;
+		}
+	.learn_button{
+		margin-left: 16%;
+		margin-right: 15%;
+		}
+	.hover_div{
+		margin-bottom:30px;
+		}
+	.bottom_margin{
+		margin-bottom:0px;
+		}
+	.know_more{
+		margin-top:0px;
+		}
+	.know_more .carousel-inner .item img{
+		margin:0 auto;
+		}
+	.know_more_media{
+		margin-left:3%;
+		}
+	.round_bottom{
+		bottom: -10%;
+		}
+	.know_more_button_home .know_more_button{
+		margin-bottom: 10px;
+		}
+	.blog_margin_top{
+		margin-top:0px;
+		}
+	.blog_margin{
+		margin-top:30px;
+		}
+	.responsive_bottom_margin{
+		margin-bottom:45px;
+		}
+	.video_frame_box{
+		text-align: center;
+		}
+	#products_example{
+		width:100%!important;
+		}
+	#products .slides_container{
+		width:100%!important;
+		}
+	.slides_container a{
+		width:435px!important;
+		}
+	#products .pagination{
+		width:92%!important;
+		margin-left: 30px!important;
+		}
+	#products .pagination li{
+		margin-left:10px!important;
+		margin-right:10px!important;
+		}
+	#products .next{
+		left:95.5%!important
+		}
+	.footer_middle{
+		margin-top:0px;
+		}
+	.footer_tweet{
+		padding-left:15%;
+		}
+	/*===== End Index Page ===*/
+	
+	/*===== About Us Page ===*/
+	.team_social_icon_box{
+		margin-left:16%;
+		}
+	.person_comment{
+		margin-bottom:20px;
+		}
+	.team_margin{
+		margin-bottom:40px;
+		}
+	/*===== End About Us Page ===*/
+	
+	/*===== Service Page ===*/
+	.skill_title:last-child{
+		margin-bottom:50px;
+		}
+	/*===== End Service Page ===*/
+	
+	/*=== Portfolio Section ===*/
+	.portfolio_item_margin{
+		margin-left:5%;
+		margin-bottom: 50px;
+		}
+	.isotop_ul li{
+		margin-right:10px;
+		margin-bottom: 10px;
+		}
+	.isotop_ul li a{
+		padding:5px;
+		}
+		/*-- Portfolio List --*/
+	.portfolio_content_title{
+		margin-top:30px;
+		}
+	.portfolio_pagination_padding{
+		padding-left:15px;
+		}
+		/*-- End portfolio List --*/
+		
+		/*-- Portfolio item --*/
+	.port_item_top{
+		margin-top:40px;
+		}
+	.por_item_service{
+		margin-top:50px;
+		}
+	.jcarousel-control-prev{
+		left:2%;
+		}
+	.jcarousel-control-next{
+		right:2%;
+		}
+		/*-- End Portfolio item --*/
+	
+	/*=== End Portfolio Section ===*/
+	
+	/*===== BLog Section ===*/
+	.blog_margin_body_top{
+		margin-top:40px;
+		}
+	.blog_post_title{
+		margin-top:20px;
+		}
+	.blog_side_padding{
+		padding-left:15px;
+		}
+		/*-- Blog Details --*/
+	.blog_slider .item img{
+		margin:0 auto;
+		}
+	/*===== End Blog Section ===*/
+	
+	/*===== Contact Page ===*/
+	.comtact_space_margin_top{
+		margin-top:50px;
+		}
+	.input_text{
+		margin-bottom:20px;
+		}
+	/*===== End Contact Page ===*/
+	
+	
+}
+@media (min-width: 320px) and (max-width: 479px){
+	/*===== Index Page ===*/
+	.container{
+		min-width: 100%!important;
+		max-width:100%!important;
+		padding-right: 15px;
+		padding-left: 15px;
+		margin-right: auto;
+		margin-left: auto;
+		}
+	#menu{
+		display:none;
+		}
+	.slicknav_menu{
+		display:block!important;
+		position:absolute;
+		z-index:100;
+		right: 0;
+		margin-top: 13px;
+		margin-right: 5px;
+		}
+	.logo{
+		text-align:left;
+		}
+		/*-- Slider --*/
+	.ls-s-1 img{
+		display:none;
+		}
+	.ls-s-1.slide_tittle{
+		left:10%!important;
+		}
+	.ls-s-1.slide_content{
+		left:10%!important;
+		margin-top:30px!important;
+		}
+	.ls-layer .slide_button {
+		top:80%!important;
+		left:10%!important;
+		}
+		/*-- End Slider --*/
+	.news_latter{
+		padding-top:30px;
+		}
+	.news_latter_list .news_latter_ul li{
+		padding-left: 0%;
+		float:none;
+		margin-right:9px;
+		}
+	.news_latter_list .news_latter_ul li:nth-child(5n+3){
+		float:left;
+		}
+	.news_latter_list .news_latter_ul li:nth-child(5n+4){
+		float:left;
+		}
+	.news_latter_list .news_latter_ul li:nth-child(5n+5){
+		float:left;
+		}
+	.news_input{
+		margin-top:10px;
+		margin-bottom:10px;
+		}
+	.botton_margin{
+		margin-top:20px;
+		margin-bottom: 20px;
+		}
+	.news_singup_small{
+		text-align:left;
+		}
+	.learn_button{
+		margin-left: 0%;
+		margin-right: 0%;
+		}
+	.line{
+		width:69px;
+		}
+	.hover_div{
+		margin-bottom:30px;
+		}
+	.responsive_hover_div_padding{
+		padding-left:0px;
+		padding-right:0px;
+		}
+	.bottom_margin{
+		margin-bottom:0px;
+		}
+	.know_more{
+		margin-top:0px;
+		}
+	.know_more .carousel-inner .item img{
+		margin:0 auto;
+		}
+	.know_more_media{
+		margin-left:3%;
+		}
+	.round_bottom{
+		bottom: -10%;
+		}
+	.know_more_button_home .know_more_button{
+		margin-bottom: 10px;
+		}
+	.blog_margin_top{
+		margin-top:0px;
+		}
+	.blog_margin{
+		margin-top:30px;
+		}
+	.responsive_bottom_margin{
+		margin-bottom:45px;
+		}
+	.video_frame_box{
+		text-align: center;
+		}
+	#products_example{
+		width:100%!important;
+		}
+	#products .slides_container{
+		width:100%!important;
+		}
+	.slides_container a{
+		width:275px!important;
+		}
+	#products .pagination{
+		width:92%!important;
+		margin-left: 28px!important;
+		}
+	#products .pagination li{
+		margin-left:1px!important;
+		margin-right:1px!important;
+		}
+	#products .next{
+		left:94%!important
+		}
+	.footer_line_stay{
+		width:59px;
+		}
+	.social_icon .social_list li{
+		margin-right:7px;
+		}
+	.footer_middle{
+		margin-top:0px;
+		}
+	.footer_line_about{
+		width: 76px;
+		}
+	.footer_line_flicker{
+		width: 61px;
+		}
+	.flicker_image_top_line .flicker_img_ul li{
+		margin-right:2px;
+		}
+	.flicker_image_bottom_line .flicker_img_ul li{
+		margin-right:2px;
+		}
+	.footer_tweet{
+		padding-left:20%;
+		}
+	/*===== End Index Page ===*/
+	
+	/*===== About Us Page ===*/
+	.person_comment{
+		margin-bottom:20px;
+		}
+	.team_margin{
+		margin-bottom:40px;
+		}
+	.team_line{
+		width:57px;
+		}
+	/*===== End About Us Page ===*/
+	
+	/*===== Service Page ===*/
+	.skill_title:last-child{
+		margin-bottom:50px;
+		}
+	/*===== End Service Page ===*/
+	
+	/*=== Portfolio Section ===*/
+	.portfolio_item_margin{
+		margin-left:5%;
+		margin-bottom: 50px;
+		}
+	.isotop_ul li{
+		margin-right:10px;
+		margin-bottom: 10px;
+		}
+	.isotop_ul li a{
+		padding:5px;
+		}
+		/*-- Portfolio List --*/
+	.portfolio_content_title{
+		margin-top:30px;
+		}
+	.see_more_buttom a{
+		padding:10px 98px;
+		}
+	.portfolio_pagination_padding{
+		padding-left:15px;
+		}
+	.blog_pagination .pagination_ul li{
+		width:35px;
+		height:35px;
+		margin-right: 5px;
+		padding-top: 0px;
+		}
+	.portfolio_list_video{
+		margin-left:0%!important;
+		}
+		/*-- End portfolio List --*/
+		
+		/*-- Portfolio item --*/
+	.port_item_top{
+		margin-top:40px;
+		}
+	.por_item_service{
+		margin-top:50px;
+		}
+	.portfolio_item_buttom a{
+		padding:10px 65px;
+		}
+	.jcarousel-control-prev{
+		left:2%;
+		}
+	.jcarousel-control-next{
+		right:2%;
+		}
+		/*-- End Portfolio item --*/
+		
+	/*=== End Portfolio Section ===*/
+	
+	/*===== BLog Section ===*/
+	.blog_margin_body_top{
+		margin-top:40px;
+		}
+	.blog_post_title{
+		margin-top:20px;
+		}
+	.blog_side_padding{
+		padding-left:15px;
+		}
+		/*-- Blog Details --*/
+	.blog_slider .item img{
+		margin:0 auto;
+		}
+	.media_list_padding{
+		padding-left:0px;
+		}
+	.comment_title_top{
+		font-size:20px;
+		}
+	.leave_comment a{
+		font-size:12px;
+		padding: 10px 10px;
+		}
+	.video_frame{
+		margin-left:-5%;
+		}
+	/*===== End Blog Section ===*/
+	
+	/*===== Contact Page ===*/
+	.comtact_space_margin_top{
+		margin-top:50px;
+		}
+	.input_text{
+		margin-bottom:20px;
+		}
+	/*===== End Contact Page ===*/
+}

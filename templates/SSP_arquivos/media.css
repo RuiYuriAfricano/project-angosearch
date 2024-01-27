@@ -1,0 +1,146 @@
+﻿@charset "utf-8";
+
+/*** MD & LG ***/
+@media screen and (min-width: 991px) {
+	/* Topo */
+	.imgbandeira  { margin-top: -30px;}
+	.imgbandeira2 { margin-top: -30px; margin-right: 10px; width: 175px; height: auto; }
+	.imgbandeira3 { margin-top: 30px; margin-right: 10px; width: 175px; height: auto; }
+	.imgbandeir4  { margin-top: 0px;height: 110px;}
+	.textoFooter  { 
+		align-items: center;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+		padding-top: 1%;
+	}  
+	/******/
+
+	/* Textos */
+	.titulo, .titulo2, .titulopreto, .chapeu, .chapeu2 {
+		font-family: proxima;
+		font-weight:bold;
+	}
+
+	.titulo, .titulo2 { color: #fff; text-align: center; }
+	.titulo { font-size: 28px; }
+	.titulo2 { font-size: 20px; }
+	.titulopreto { color: #000; font-size: 18px; }
+	.titulopretoEstatistica { color: #000; font-size: 36px; }
+	.paragrafoEstatistica { font-size: 18px; }
+	.tituloazul { font-size: 20px; }
+	o
+	/******/
+
+	.header_text { font-size: 12px; }
+	.header_text2 { font-size: 19px !important; }
+	.header_text3 {font-size: 26px;margin-top: 5px;}
+	.chapeu, .chapeu2 { font-size: 18px; }
+}
+/******/
+
+/*** SM ***/
+ @media screen and (min-width: 768px) and (max-width: 990px) {
+	/* Topo */
+    .faixatop { margin-top: 40px; }
+	.imgbandeira { margin-top: -30px;}
+	.imgbandeira2 { margin-top: -20px; margin-right: 5px; width: 140px; height: auto; }
+
+	.imgbandeira3 { margin-top: 30px; margin-right: 5px; width: 175px; height: auto; }
+	.imgbandeir4  { margin-top: 0px;height: 110px;}
+
+	.textoFooter  { 
+		align-items: center;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+		padding-top: 3%;
+	}  
+
+	/******/
+
+	/* Textos */
+	.titulo, .titulo2, .titulopreto, .chapeu, .chapeu2 {
+		font-family: Arial, Helvetica, sans-serif;
+		font-weight:bold;
+	}
+
+	.titulo, .titulo2 { color: #fff; text-align: center; }
+	.titulo { font-size: 36px; }
+	.titulo2 { font-size: 22px; }
+	.titulopreto { color: #000; font-size: 18px; }
+	.titulopretoEstatistica { color: #000; font-size: 36px; }
+	.paragrafoEstatistica { font-size: 18px; }
+	.tituloazul { font-size: 20px; }
+	/******/
+
+	.header_text { font-size: 10px; }
+	.header_text2 { font-size: 13px !important; }
+	.header_text3 { font-size: 17px; margin-top: 5px; }
+	.chapeu, .chapeu2 { font-size: 18px !important; }
+ }
+/******/
+
+/*** XS ***/
+ @media screen and (max-width: 767px) {
+	/* Topo */
+	.faixatop { margin-top: 40px; }
+	.imgbandeira { margin-top: -40px; width: auto; height: 110px; }
+	.imgbandeira2 { margin-top: -40px; margin-right: 5px; width: 120px; height: auto;padding-right: 10px; }
+
+	.imgbandeira3 { margin-top: 30px; margin-right: 5px; width: 120px; height: auto; }
+	.imgbandeir4  { margin-top: 0px;height: 110px;}
+	.textoFooter  { 
+		align-items: center;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+		padding-top: 3%;
+	}  
+	/******/
+
+	/* Textos */
+	.titulo, .titulo2, .titulopreto, .chapeu, .chapeu2 {
+		font-family: Arial, Helvetica, sans-serif;
+		font-weight:bold;
+	}
+
+	.titulo, .titulo2 { color: #fff; text-align: center; }
+	.titulo { font-size: 20px; }
+	.titulo2 { font-size: 18px; }
+	.titulopreto { color: #000; font-size: 14px; }
+	.titulopretoEstatistica { color: #000; font-size: 20px; }
+	.paragrafoEstatistica { font-size: 14px; }
+	.tituloazul { font-size: 16px; }
+	/******/ 
+
+	.header_text { font-size: 10px; }
+	.header_text2 { font-size: 13px !important; }
+	.header_text3 { font-size: 17px; margin-top: 5px; }
+	.chapeu, .chapeu2 { font-size: 12px !important; }
+}
+/******/
+
+/*** CUSTOMS ***/
+ @media screen and (max-width: 700px) {
+	.hidden700 { display: none !important; }
+}
+ 
+ @media screen and (max-width: 682px) {
+	.hidden682 { display: none !important; }
+}
+ 
+ @media screen and (max-width: 540px) {
+	.hidden540 { display: none !important; }
+}
+ 
+ @media screen and (max-width: 400px) {
+	.header_text { font-size: 8px; }
+	.header_text2 { font-size: 10px !important; }
+	.header_text3 { font-size: 13px; margin-top: 0px; }
+}
+
+/******/

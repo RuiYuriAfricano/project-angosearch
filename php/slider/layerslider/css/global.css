@@ -1,0 +1,120 @@
+
+#products_example {
+	width:960px;
+	height:100px;
+	position:relative;
+}
+
+/*
+	Slideshow
+*/
+
+/*
+	Slides container
+	Important:
+	Set the width of your slides container
+	Set to display none, prevents content flash
+*/
+
+#products .slides_container {
+	width:960px;
+	overflow:hidden;
+	float:left;
+	position:relative;
+	display:none;
+}
+
+/*
+	Each slide
+	Important:
+	Set the width of your slides
+	If height not specified height will be set by the slide content
+	Set to display block
+*/
+
+.slides_container a {
+	width:960px;
+	height:100px;
+	display:block;
+	text-decoration:none;
+}
+
+/*
+	Next/prev buttons
+*/
+
+#products .next,#products .prev {
+	position:absolute;
+	top:135px;
+	left:0;
+	width:30px;
+	height:30px;
+	padding-top:21px;
+	overflow:hidden;
+	display:block;
+	z-index:101;
+	text-indent: -9999px;
+}
+
+#products .prev {
+	background:url(../assets/images/cru_left.png);
+	background-repeat:no-repeat;
+}
+
+#products .next {
+	left:940px;
+	background:url(../assets/images/cru_right.png);
+	background-repeat:no-repeat;
+}
+.pagination>li>a:hover, .pagination>li>span:hover, 
+.pagination>li>a:focus, .pagination>li>span:focus{
+	background-color: transparent;
+	}
+.pagination>li>a, .pagination>li>span{
+	background-color: transparent;
+	border: none;
+	width: 100%;
+	padding:0px;
+	margin: 0 auto;
+	}
+/*
+	Pagination
+*/
+
+
+
+#products .pagination {
+	width:880px;
+	float:left;
+	margin-left:55px;
+	border-radius:5px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	margin-bottom:60px;
+}
+
+#products .pagination li {
+	float:left;
+	width:78px;
+	height:82px;
+	margin-left:22px;
+	margin-right:22px;
+	list-style:none;
+}
+
+.italicfont{
+	font-style: italic;
+}
+
+.bold_color_content{font-size: 16px;
+line-height: 24px;
+color: #959ea7;
+text-align:center;}
+.bold_color{font-weight:600; color:#959ea7;}
+
+
+
+#products .pagination li a{opacity:0.2;}
+#products .pagination li.current a {
+	opacity:1.0;
+}

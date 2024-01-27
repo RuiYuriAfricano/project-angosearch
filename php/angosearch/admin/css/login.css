@@ -1,0 +1,142 @@
+.login{
+
+
+    text-align: center;
+    width: 500px;
+    height: 310px;
+    margin-left: 400px;
+    background:	linear-gradient(45deg,	#f0f9ff	0%,	#002a80	37%,	#005cbf	80%);
+
+
+}
+
+.login input[type="text"], .login input[type="password"]{
+    width: 160px;
+    border: solid 0;
+    background-color:transparent ;
+    color:#fff;
+}
+
+.login input[type="submit"]{
+
+    position: relative;
+    right: 0px;
+    width: 190px;
+    background-color: #ffffff;
+    color:#002a80 ;
+    border: none;
+
+}
+.login input[type="submit"]:hover{
+
+
+    background-color: #002a80;
+    color:#ffffff ;
+
+
+}
+
+.login hr{
+    width: 190px;
+    background-color: silver;
+}
+
+.login h3{
+    position: relative;
+    right: 60px;
+    font-weight: 0;
+    color: #ffffff;
+}
+
+.voltar{
+    color: #fff;
+}
+.voltar:hover{
+    color: #fff;
+    text-decoration: underline;
+}
+
+/* Responsividade do login*/
+
+
+@media(max-width:1280px){
+
+    .login{
+
+
+        text-align: center;
+        width:500px ;
+        height: 310px;
+        margin-left: 260px;
+        position: relative;
+        top: 70px;
+        background:	linear-gradient(45deg,	#f0f9ff	0%,	#002a80	37%,	#005cbf	80%);
+
+
+    }
+
+}
+
+@media only screen and (max-width: 959px) {
+
+    .login{
+
+
+        text-align: center;
+        width:500px ;
+        height: 310px;
+        margin-left: 140px;
+        position: relative;
+        top: 70px;
+        background:	linear-gradient(45deg,	#f0f9ff	0%,	#002a80	37%,	#005cbf	80%);
+
+
+    }
+
+}
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+    .login{
+
+
+        text-align: center;
+        width:500px ;
+        height: 310px;
+        margin-left: 20px;
+        position: relative;
+        top: 70px;
+        background:	linear-gradient(45deg,	#f0f9ff	0%,	#002a80	37%,	#005cbf	80%);
+
+
+    }
+
+}
+
+
+
+
+@media only screen and (max-width: 440px) {
+
+    .login{
+
+
+        text-align: center;
+        width: 100%;
+        height: 310px;
+        margin-left: 00px;
+        position: relative;
+        top: 70px;
+        background:	linear-gradient(45deg,	#f0f9ff	0%,	#002a80	37%,	#005cbf	80%);
+
+
+    }
+
+
+
+}
+

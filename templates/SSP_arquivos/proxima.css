@@ -1,0 +1,21 @@
+﻿@font-face {
+    font-family: 'proxima';
+    src: url('../fonts/proxima-regular.woff') format('woff');
+
+}
+@font-face {
+    font-family: 'proxima';
+    src: url('../fonts/proxima-bold.woff') format('woff');
+    font-weight: bolder;
+}
+@font-face {
+    font-family: 'proxima';
+    src: url('../fonts/proxima-light.woff') format('woff');
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: 'proxima';
+    src: url('../fonts/proxima-semibold.woff') format('woff');
+    font-weight: bold;
+}

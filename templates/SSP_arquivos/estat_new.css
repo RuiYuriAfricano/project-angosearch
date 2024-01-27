@@ -1,0 +1,6 @@
+﻿body { }
+
+.full { width: 95%; }
+.btn-primary:visited {
+    background-color:red;
+}
